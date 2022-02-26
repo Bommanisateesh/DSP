@@ -12,3 +12,10 @@ Generally in realtime we will create several branches like below
 	QA
 	UAT
 	release
+Generally in realtime we will create several branches like below
+ 	main/master branch(default)
+	development
+	feature branch
+	QA
+	UAT
+	release
